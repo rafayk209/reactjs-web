@@ -1,0 +1,7 @@
+body{
+    background-image: url("image/food.jpg") ;
+    min-height:100%;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
